@@ -1,0 +1,69 @@
+testing insert
+
+entri;
+
+entri ships;
+
+entri ships nilai z23 iron_blood destroyer elite;
+
+entri ships nilai ayanami a b c d e;
+
+entri ships nilai hood royal_navy battlecruiser;
+
+entri ships nilai hood royal_navy battlecruiser super_rare
+
+entri ships nilai hood royal_navy battlecruiser super_rare;
+
+entri factions;
+
+entri factions sakura_empire ijn japan;
+
+entri factions royal_navy hms brittish_empire biggest;
+
+testing ubah
+
+ubah;
+
+ubah ships;
+
+ubah ship kolom ship_faction jadi sakura_empire dimana ship_name itu ayanami;
+
+ubah ships kolom ship_faction jadi sakura_empire dimana ship_name ayanami;
+
+ubah ships kolom ship_faction jadi sakura_empire dimana ship_name tu ayanami;
+
+ubah ships kolom ship_faction jadi sakura_empire dimana ship_name itu ayanami;
+
+ubah ships kolom ship_name jadi ayaya dimana ship_name itu ayanami;
+
+ubah ships kolom ship_name jadi ayaya dimana ship_type itu b;
+
+ubah ships kolom ship_class jadi destroyer dimana ship_name itu ayaya;
+
+ubah ships kolom ship_type jadi destroyer dimana ship_name itu ayaya;
+
+ubah factions kolom fac_country jadi english dimana fac_name itu royal_navy;
+
+testing delete
+
+hapus ships;
+
+hapus;
+
+hapus ships;
+
+hapus ships dimana ship_name itu ayanami;
+
+hapus ships dimana ship_type itu battlecruiser;
+
+hapus ships dimana ship_name itu belfast;
+
+hapus factions dimana fac_name itu royal_navy;
+
+testing tampil
+
+tampil ship;
+
+tampil ships;
+
+tampil factions;
